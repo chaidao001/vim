@@ -1,9 +1,10 @@
 # ignore everything
 *
-
 # but ...
+#
 !.gitignore
 !.vimrc
-!.vim/colors/*
-!.vim/bundle/*
-!.vim/autoload/*
+!.vim/
+!.vim/*/
+!.vim/*/*/
+!.vim/*/*/*/
