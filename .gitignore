@@ -5,3 +5,5 @@
 !.gitignore
 !.vimrc
 !.vim/colors/*
+!.vim/bundle/*
+!.vim/autoload/*
