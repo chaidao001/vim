@@ -1,10 +1,11 @@
 # ignore everything
-*
+/*
+
 # but ...
-#
 !.gitignore
-!.vimrc
 !.vim/
-!.vim/*/
-!.vim/*/*/
-!.vim/*/*/*/
+
+# still ignore ...
+.vim/.DS_Store
+.vim/.netrwhist
+
