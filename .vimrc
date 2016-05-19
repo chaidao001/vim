@@ -12,5 +12,8 @@ set autoindent
 " show line numbers
 set number
 
+" incsearch
+set is
+
 " use pathogen to autoload plugins
 execute pathogen#infect()
